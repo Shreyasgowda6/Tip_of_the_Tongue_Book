@@ -6,6 +6,8 @@ Sometimes we remember a story but forget its title. This project lets us describ
 
 The search looks for matching words and similar story meanings. It combines both approaches, then reorders the results. The page shows the results from each approach so they can be compared.
 
+Try the [live book finder](https://918xwbrk-8000.eun1.devtunnels.ms/) to find a book from a story description.
+
 ## Try it on your computer
 
 From the project folder, install the needed packages and start the app:
