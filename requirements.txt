@@ -2,3 +2,5 @@ pandas
 pyarrow
 fastapi
 uvicorn[standard]
+bm25s
+sentence-transformers

@@ -1,0 +1,601 @@
+query,group,gold_wiki_id,gold_rank,rank,wiki_id,title,author,dense_score,latency_ms
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,1,11364514,The Lord of the Rings,Shaun McKenna,0.6378936767578125,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,2,27472888,The Fellowship of the Ring,J. R. R. Tolkien,0.5896443128585815,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,3,30292,The Hobbit,J. R. R. Tolkien,0.5736947059631348,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,4,29798,The Lord of the Rings,J. R. R. Tolkien,0.5497773289680481,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,5,2296365,"The 35th of May, or Conrad's Ride to the South Seas",Erich Kästner,0.48889783024787903,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,6,18307630,Savage Pellucidar,Edgar Rice Burroughs,0.41195154190063477,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,7,15773551,The Last Ringbearer,Kirill Yeskov,0.4048027992248535,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,8,33278138,The Mountain Is Young,Han Suyin,0.40182045102119446,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,9,1819976,The Warlord of Mars,Edgar Rice Burroughs,0.3917081654071808,27.909375028684735
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",exact_words,30292,3.0,10,21719995,The Covent Garden Tragedy,Henry Fielding,0.3910646438598633,27.909375028684735
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,1,8308396,An Assembly Such as This,Pamela Aidan,0.6624172925949097,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,2,24162,Pride and Prejudice,Jane Austen,0.6616247296333313,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,3,34260936,Death Comes to Pemberley,P. D. James,0.6153185963630676,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,4,24913120,"Love, Lies and Lizzie",,0.6109404563903809,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,5,9461165,Duty and Desire,Pamela Aidan,0.6101349592208862,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,6,9807293,These Three Remain,Pamela Aidan,0.6019332408905029,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,7,2146926,Searching for David's Heart,Cherie Bennett,0.5377379059791565,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,8,22218319,Pride and Prejudice and Zombies,,0.49799734354019165,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,9,7945123,Autumn Street,Lois Lowry,0.4709396958351135,7.588708074763417
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",exact_words,24162,2.0,10,13130092,The Reluctant Queen: The Story of Anne of York,Eleanor Hibbert,0.47004106640815735,7.588708074763417
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,1,18580673,Frankenstein,Mary Shelley,0.5193512439727783,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,2,2125816,Poor Things,Alasdair Gray,0.4767377972602844,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,3,11247103,Baby Is Three,Theodore Sturgeon,0.4763559103012085,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,4,2194450,Reliquary,Lincoln Child,0.4530928134918213,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,5,19050921,The Daughters of Cain,Colin Dexter,0.4466586112976074,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,6,3989578,Image,Mel Odom,0.43651536107063293,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,7,27811716,Dead Heat,,0.43286213278770447,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,8,26157385,My Dead Body,Charlie Huston,0.4234643280506134,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,9,3557621,Walter,,0.4223852753639221,5.880833021365106
+Victor Frankenstein creates a living being from body parts,exact_words,18580673,1.0,10,329756,The Postman Always Rings Twice,James M. Cain,0.42216408252716064,5.880833021365106
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,1,7923,Dracula,Bram Stoker,0.6313847303390503,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,2,17459118,The Revenge of Dracula,Peter Berresford Ellis,0.5619251728057861,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,3,25207441,Dracula the Un-dead,,0.49642395973205566,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,4,14063598,Judgement of Tears,,0.4735886752605438,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,5,12644709,The Book of Renfield,Tim Lucas,0.472319096326828,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,6,11376909,Bloodline,Kate Cary,0.46280884742736816,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,7,14062078,The Bloody Red Baron,Kim Newman,0.46215832233428955,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,8,14063233,Anno Dracula,Kim Newman,0.44999611377716064,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,9,16010213,The Chosen,L. J. Smith,0.43499547243118286,5.688457982614636
+"Count Dracula, Mina Harker, and Jonathan Harker",exact_words,7923,1.0,10,26279560,Little Hands Clapping,Dan Rhodes,0.4288387894630432,5.688457982614636
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,1,76033,The Great Gatsby,F. Scott Fitzgerald,0.46562138199806213,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,2,4042710,Girls on film,Zoey Dean,0.4189821183681488,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,3,28435548,This Charming Man,,0.41609588265419006,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,4,5359895,Gilligan's Wake,,0.39530831575393677,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,5,1999266,The Time of Your Life,William Saroyan,0.3941783905029297,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,6,5177162,Kissing the Gunner's Daughter,Ruth Rendell,0.3934178352355957,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,7,6899816,The Mystery of the Tolling Bell,Carolyn Keene,0.38078320026397705,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,8,18442553,The Celebrity,,0.3799418807029724,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,9,8833017,Shattered,Dean Koontz,0.3797737956047058,5.722292000427842
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",exact_words,76033,1.0,10,18949410,And Then There Were None,Agatha Christie,0.3778509497642517,5.722292000427842
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,1,73408,To Kill a Mockingbird,Harper Lee,0.5705915689468384,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,2,1130010,Horton Hatches the Egg,Dr. Seuss,0.475767582654953,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,3,453177,A Personal Matter,Kenzaburō Ōe,0.44410181045532227,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,4,27378413,Finch,Jeff VanderMeer,0.43102455139160156,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,5,11414384,May Bird and the Ever After,,0.4079686403274536,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,6,21734059,"Uncle Robin, in His Cabin in Virginia, and Tom Without One in Boston",,0.4057416319847107,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,7,14414811,A Jovial Crew,Richard Brome,0.4017854332923889,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,8,424021,Rilla of Ingleside,Lucy Maud Montgomery,0.39102357625961304,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,9,22154722,The Grange at High Force,Philip Turner,0.38754552602767944,3.9679589681327343
+Atticus Finch defends Tom Robinson in Maycomb,exact_words,73408,1.0,10,914619,Goodnight Mister Tom,Michelle Magorian,0.38689252734184265,3.9679589681327343
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,1,23454753,Nineteen Eighty-Four,George Orwell,0.6025912761688232,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,2,53590,Double Star,Robert A. Heinlein,0.4091542065143585,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,3,28381337,A Journey,Anthony Blair,0.4082486629486084,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,4,11099422,An Ice-Cream War,William Boyd,0.39875614643096924,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,5,2558186,Winston's War,Michael Dobbs,0.39607182145118713,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,6,2987839,Michelle Remembers,,0.38146597146987915,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,7,9843759,The Continent Makers,L. Sprague de Camp,0.37714534997940063,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,8,2332270,North and South,Elizabeth Gaskell,0.36770302057266235,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,9,4265685,Dùn Aluinn,,0.36298635601997375,5.172000033780932
+Winston Smith works at the Ministry of Truth in Oceania,exact_words,23454753,1.0,10,4974066,Xavras Wyżryn,Jacek Dukaj,0.3587399125099182,5.172000033780932
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,1,186258,The Catcher in the Rye,J. D. Salinger,0.6103270053863525,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,2,4955896,Ruined City,Nevil Shute,0.443041056394577,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,3,11915160,The Secret Battle,A. P. Herbert,0.4204476773738861,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,4,1885160,Cakes and Ale,W. Somerset Maugham,0.4038160443305969,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,5,22738336,My Life Starring Mum,,0.4020697772502899,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,6,15386721,Reflections in a Golden Eye,Carson McCullers,0.401915967464447,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,7,2252934,The Master,Colm Tóibín,0.4019123911857605,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,8,5638829,Spadework,Timothy Findley,0.40132662653923035,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,9,22832822,Simon,Rosemary Sutcliff,0.39823174476623535,4.630459006875753
+Holden Caulfield leaves Pencey Prep and wanders New York,exact_words,186258,1.0,10,218875,The Mysterious Affair at Styles,Agatha Christie,0.39698562026023865,4.630459006875753
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,1,10862,The Metamorphosis,,0.5807857513427734,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,2,16026877,The Forgotten Planet,Murray Leinster,0.4688027501106262,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,3,11027263,The Dreamwalker's Child,,0.4462019205093384,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,4,29992648,Starfinder,,0.43936556577682495,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,5,764491,Perdido Street Station,China Miéville,0.429739773273468,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,6,21694530,Mothstorm,Philip Reeve,0.4254325032234192,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,7,9471915,Hothouse,Brian Aldiss,0.41585573554039,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,8,4847916,Gregor the Overlander,Suzanne Collins,0.401475191116333,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,9,12444654,Queen of the Spiders,Gary Gygax,0.3798043727874756,4.05033293645829
+Gregor Samsa wakes up transformed into a giant insect,exact_words,10862,1.0,10,9648948,The Bug Wars,Robert Asprin,0.37931743264198303,4.05033293645829
+Josef K is arrested without being told his crime,exact_words,10861,2.0,1,364618,The Good Soldier Švejk,Jaroslav Hašek,0.5200075507164001,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,2,10861,The Trial,Franz Kafka,0.4429004192352295,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,3,1726124,A History of Violence,John Wagner,0.44087934494018555,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,4,4049922,Young Bond Book 5,Charlie Higson,0.42584288120269775,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,5,2522700,Life Expectancy,Dean Koontz,0.4221915006637573,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,6,12010547,Critique of Criminal Reason,,0.41952431201934814,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,7,6201096,London Match,Len Deighton,0.41181638836860657,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,8,28360749,Rondo,,0.4105948209762573,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,9,15422632,Heimweg,,0.3968493640422821,3.7007080391049385
+Josef K is arrested without being told his crime,exact_words,10861,2.0,10,8891528,CHERUB: The Killing,Robert Muchamore,0.393735408782959,3.7007080391049385
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,1,466470,The Eyre Affair,Jasper Fforde,0.5559618473052979,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,2,55438,Jane Eyre,Charlotte Brontë,0.5371187925338745,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,3,19190224,Wycliffe and the Beales,,0.48450008034706116,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,4,854386,Wide Sargasso Sea,Jean Rhys,0.48141855001449585,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,5,3020882,The Women of Brewster Place,Gloria Naylor,0.47887545824050903,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,6,12185146,Austenland,Shannon Hale,0.47041183710098267,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,7,30069705,Purple Jesus,,0.4541146457195282,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,8,2519788,The History of Sir Charles Grandison,Samuel Richardson,0.45364344120025635,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,9,4623256,Plainsong,Kent Haruf,0.4478365182876587,4.241958959028125
+"Jane Eyre, Mr Rochester, and Thornfield Hall",exact_words,55438,2.0,10,14560286,Jane and Prudence,Barbara Pym,0.4477269649505615,4.241958959028125
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,1,55435,Wuthering Heights,Emily Brontë,0.6727882027626038,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,2,11370334,The Water of the Wondrous Isles,William Morris,0.4819467067718506,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,3,19190948,Wycliffe and the Guild of Nine,,0.4601922333240509,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,4,12492338,The Shadowmancer Returns: The Curse of Salamander Street,Graham Taylor,0.45331522822380066,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,5,9682847,World without End,Ken Follett,0.45124006271362305,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,6,18445190,The Rose Rent,Edith Pargeter,0.4464455246925354,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,7,6830322,Less than Angels,Barbara Pym,0.44474169611930847,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,8,24913120,"Love, Lies and Lizzie",,0.44403573870658875,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,9,24089712,Saint Peter's Fair,Edith Pargeter,0.4331236779689789,5.24641596712172
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,exact_words,55435,1.0,10,29991403,The Sword and the Circle,Rosemary Sutcliff,0.43027985095977783,5.24641596712172
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,1,31342,The Picture of Dorian Gray,Oscar Wilde,0.5989896059036255,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,2,3989578,Image,Mel Odom,0.48203569650650024,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,3,21270123,Poor Miss Finch,Wilkie Collins,0.4469100832939148,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,4,17373247,The Judas Boy,,0.444129079580307,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,5,11030596,"Dorian, an Imitation",Will Self,0.42173853516578674,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,6,25258688,The Man in the Picture: A Ghost Story,Susan Hill,0.42100974917411804,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,7,255971,Death in Venice,Thomas Mann,0.41411304473876953,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,8,5870733,"I, Juan de Pareja",Elizabeth Borton de Treviño,0.4085795283317566,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,9,30025274,Masterpiece,Elise Broach,0.4079136252403259,6.787082995288074
+Basil Hallward paints Dorian Gray’s portrait,exact_words,31342,1.0,10,5360660,History 101,Mags L Halliday,0.40747082233428955,6.787082995288074
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,1,1832130,Woken Furies,Richard Morgan,0.5250347852706909,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,2,32688947,The War of the Worlds,H. G. Wells,0.4668549597263336,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,3,5877683,Edison's Conquest of Mars,Garrett P. Serviss,0.4664132595062256,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,4,5621134,War of the Worlds: New Millennium,Douglas Niles,0.441294401884079,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,5,17828740,In the Courts of the Crimson Kings,S. M. Stirling,0.43855205178260803,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,6,5778505,Aelita,Aleksey Nikolayevich Tolstoy,0.43349534273147583,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,7,1032415,A Princess of Mars,Edgar Rice Burroughs,0.4193033277988434,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,8,23958080,A Wizard of Mars,Diane Duane,0.4135502576828003,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,9,4206153,The Secret of Sinharat,Leigh Brackett,0.40724536776542664,4.140416975133121
+Martians land near Woking and attack with heat-rays,exact_words,32688947,2.0,10,25668343,Impact,Douglas Preston,0.4044017791748047,4.140416975133121
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,1,380013,The Time Ships,Stephen Baxter,0.6773899793624878,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,2,5390724,The Keeping Place,Isobelle Carmody,0.5045889019966125,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,3,27019821,Ashling,Isobelle Carmody,0.46446067094802856,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,4,29834,The Time Machine,H. G. Wells,0.458728551864624,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,5,5449258,Finity's End,C. J. Cherryh,0.44010964035987854,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,6,9008104,The Unbeheaded King,L. Sprague de Camp,0.43933165073394775,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,7,12952797,Dawn Wind,Rosemary Sutcliff,0.4303300082683563,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,8,2581531,The Claw of the Conciliator,Gene Wolfe,0.42909303307533264,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,9,4665068,The Demon Awakens,Robert Anthony Salvatore,0.4244895577430725,4.439041949808598
+Eloi and Morlocks encountered by a time traveller,exact_words,29834,4.0,10,7001498,The Stranger,K. A. Applegate,0.42412954568862915,4.439041949808598
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,1,165026,The Handmaid's Tale,Margaret Atwood,0.5005591511726379,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,2,5094210,A Cavern of Black Ice,Julie Victoria Jones,0.4958805739879608,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,3,24141584,Dragon Age: The Stolen Throne,David Gaider,0.4831591844558716,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,4,7935589,The Children of the New Forest,,0.47011131048202515,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,5,2723594,Gil Blas,Alain-René Lesage,0.4648756980895996,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,6,20505716,Royal Exile,Fiona McIntosh,0.45636671781539917,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,7,667309,The Moon Is Down,John Steinbeck,0.45513755083084106,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,8,11370345,The Sundering Flood,William Morris,0.453557550907135,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,9,2961517,The Crown of Dalemark,Diana Wynne Jones,0.4523019790649414,3.9833749178797007
+Offred lives under the rule of the Commanders in Gilead,exact_words,165026,1.0,10,11879921,The Days of his Grace,Eyvind Johnson,0.4450136721134186,3.9833749178797007
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,1,1137862,Dune: House Atreides,Kevin J. Anderson,0.4812869727611542,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,2,71416,Dune,Frank Herbert,0.4563525915145874,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,3,13871,Heretics of Dune,Frank Herbert,0.4517337679862976,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,4,8567,Dune Messiah,Frank Herbert,0.4197307527065277,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,5,21345627,The Winds of Dune,Brian Herbert,0.4119763672351837,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,6,11684683,Paul of Dune,Kevin J. Anderson,0.404416561126709,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,7,867887,Dune: House Corrino,Kevin J. Anderson,0.3911941647529602,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,8,2839658,Asterix and Obelix All at Sea,,0.3850170373916626,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,9,28246359,Forsaken House,Richard Baker,0.38012126088142395,4.0412499802187085
+"Paul Atreides, Arrakis, spice, and the Fremen",exact_words,71416,2.0,10,5003381,A Dying Light in Corduba,Lindsey Davis,0.3752049505710602,4.0412499802187085
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,1,29999,The Shining,Stephen King,0.7254087924957275,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,2,1038036,Hotel,Arthur Hailey,0.500095784664154,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,3,25443579,The Efficiency Expert,Edgar Rice Burroughs,0.4837823510169983,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,4,19433109,Vaporetto 13: A Novel,Robert Girardi,0.4363960027694702,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,5,4937548,Don't Stop the Carnival,Herman Wouk,0.42604565620422363,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,6,3857751,Martin Dressler: The Tale of an American Dreamer,Steven Millhauser,0.4159429669380188,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,7,12417035,The Grand Babylon Hotel,Arnold Bennett,0.40540480613708496,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,8,34477621,Chowringhee,Mani Shankar Mukherjee,0.4034029245376587,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,9,11151851,Somewhere in Time,Richard Matheson,0.3905782103538513,3.9142919704318047
+Jack Torrance takes a job at the Overlook Hotel,exact_words,29999,1.0,10,2266900,A Walk on the Wild Side,Nelson Algren,0.3871116042137146,3.9142919704318047
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,1,5043452,The Da Vinci Code,Dan Brown,0.7396960258483887,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,2,2041080,The Lost Symbol,Dan Brown,0.5825498700141907,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,3,577390,Angels and Demons,Dan Brown,0.5613314509391785,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,4,6811108,Legion,William Peter Blatty,0.4821123778820038,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,5,11350877,The Greek Coffin Mystery,Frederic Dannay,0.4721001088619232,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,6,6334150,The Stress of Her Regard,Tim Powers,0.46494922041893005,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,7,12945901,A Flea in Her Ear,Georges Feydeau,0.45274633169174194,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,8,7059203,Psycho II,Robert Bloch,0.4481624364852905,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,9,20010469,The Secret Supper,,0.4442101716995239,4.340459010563791
+Robert Langdon investigates a murder at the Louvre,exact_words,5043452,1.0,10,13624331,The Fairy Gunmother,Daniel Pennac,0.4429415762424469,4.340459010563791
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,1,20128213,The Hunger Games,Suzanne Collins,0.5880297422409058,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,2,21909903,Catching Fire,Suzanne Collins,0.5584287047386169,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,3,26170677,Mockingjay,Suzanne Collins,0.4905887246131897,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,4,32020149,The Oakdale Affair,Edgar Rice Burroughs,0.414792537689209,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,5,22293380,Graceling,Kristin Cashore,0.3620586097240448,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,6,2646126,The Mines of Bloodstone,Michael Dobson,0.359884113073349,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,7,13502613,Teneke,Yaşar Kemal,0.3397718667984009,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,8,5776519,The Sum of All Men,Dave Wolverton,0.33488744497299194,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,9,876994,Island of the Blue Dolphins,Scott O'Dell,0.33306315541267395,4.060375038534403
+Katniss Everdeen volunteers in place of Prim in District 12,exact_words,20128213,1.0,10,4572405,The Pirates of Malaysia,Emilio Salgari,0.326745867729187,4.060375038534403
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,1,3069279,Malevil,Robert Merle,0.42276710271835327,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,2,902755,City,Clifford D. Simak,0.40825551748275757,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,3,25120921,Jack the Hare and Mukuyu Forest,,0.40790724754333496,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,4,11541759,Snowball's Chance,John Reed,0.4069390296936035,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,5,3021563,The Sheep-Pig,Dick King-Smith,0.40507373213768005,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,6,6834025,Running with the Demon,Terry Brooks,0.39719158411026,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,7,254652,Cold Comfort Farm,Stella Gibbons,0.3937835693359375,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,8,3100266,Aunt Phillis's Cabin,Seth Eastman,0.3915483355522156,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,9,11902569,The Late Lancashire Witches,Thomas Heywood,0.3888700604438782,3.611207939684391
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",vague_plot,620,,10,1074427,Half Past Human,T. J. Bass,0.38514286279678345,3.611207939684391
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,1,30853970,The Boy in the Oak,,0.4747294783592224,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,2,1701452,The Richleighs of Tantamount,Barbara Willard,0.4641643166542053,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,3,21559095,Winter,John Marsden,0.4486720561981201,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,4,6945313,Hills End,Ivan Southall,0.4088901877403259,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,5,9846147,A City In Winter,Mark Helprin,0.4061022400856018,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,6,24607837,Little King Matty...and the Desert Island,Janusz Korczak,0.3952083885669708,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,7,28771603,The House of Arden,E. Nesbit,0.3927239775657654,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,8,8111993,Foxmask,Juliet Marillier,0.3820614516735077,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,9,32242809,The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making,Catherynne M. Valente,0.38002538681030273,4.838542081415653
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,vague_plot,242130,,10,6833891,Magic Kingdom for Sale -- Sold!,Terry Brooks,0.3784790337085724,4.838542081415653
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,1,22224632,The Greenhouse,,0.5120247006416321,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,2,16796064,An Episode of Sparrows,Rumer Godden,0.5037718415260315,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,3,27261769,Pollard,,0.4833211600780487,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,4,26083458,Marjorie's Quest,Jeanie Gould,0.4759626090526581,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,5,3796192,Missing May,Cynthia Rylant,0.46708086133003235,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,6,26019085,Bedlam,Ally Kennen,0.46566489338874817,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,7,10722610,How the Dead Live,Will Self,0.4564889669418335,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,8,23855758,The Forest of Hands and Teeth,Carrie Ryan,0.451654314994812,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,9,15772882,Family Moving Day,Geneviève Huriet,0.45023855566978455,4.013792029581964
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,vague_plot,410873,,10,254652,Cold Comfort Farm,Stella Gibbons,0.4488503932952881,4.013792029581964
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,1,5705316,Strange happenings,,0.47701916098594666,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,2,17253265,The Celestial Plot,Adolfo Bioy Casares,0.46357786655426025,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,3,355167,Star Maker,Olaf Stapledon,0.46036088466644287,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,4,1869270,Mission of Gravity,Hal Clement,0.45381981134414673,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,5,30745488,A Momentary Taste of Being,"James Tiptree, Jr",0.45142748951911926,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,6,21197683,The Man with a Thousand Names,,0.4416884779930115,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,7,13921561,The Sky People,S. M. Stirling,0.4260740280151367,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,8,4096083,Across The Zodiac,Percy Greg,0.42059266567230225,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,9,33790,The Wanderer,Fritz Leiber,0.4062354564666748,4.0232500759884715
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,vague_plot,63425,,10,11238494,Forest of the Pygmies,Isabel Allende,0.4033464789390564,4.0232500759884715
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,1,199932,The Giver,Lois Lowry,0.4450749158859253,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,2,5218369,A Demon in My View,Ruth Rendell,0.44496187567710876,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,3,33790619,The Enchanted Wanderer,Nikolai Leskov,0.4421733617782593,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,4,20898130,A Crystal Age,William Henry Hudson,0.43240320682525635,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,5,8570979,From an Abandoned Work,Samuel Beckett,0.42908602952957153,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,6,16208949,The Kin of Ata are Waiting for You,,0.42611658573150635,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,7,10221531,Veracity,,0.42611032724380493,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,8,2321966,Kangaroo Notebook,Kobo Abe,0.42048677802085876,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,9,17435050,Firebird,Mercedes Lackey,0.41894906759262085,3.8107919972389936
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,vague_plot,73670,,10,2524345,The Gift of Stones,Jim Crace,0.41841697692871094,3.8107919972389936
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,1,21000359,Seekers of the Sky,Sergey Lukyanenko,0.5383167266845703,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,2,4435553,Two Years' Vacation,Jules Verne,0.4957085847854614,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,3,3380081,Peter and the Starcatchers,Ridley Pearson,0.4818514287471771,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,4,7227104,Red Seas Under Red Skies,Scott Lynch,0.47218960523605347,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,5,11098939,The Golden Rendezvous,Alistair MacLean,0.4650517702102661,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,6,14012645,Not About Nightingales,Tennessee Williams,0.4645906984806061,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,7,8608985,The Wreck of the Zephyr,Chris Van Allsburg,0.4576408267021179,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,8,3232513,Flush,Carl Hiaasen,0.4539390206336975,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,9,10964751,Love and War in the Apennines,Eric Newby,0.4538012742996216,3.850957960821688
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",vague_plot,82163,,10,659058,Clarissa Oakes,Patrick O'Brian,0.45073404908180237,3.850957960821688
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,1,24852536,Krondor: The Assassins,Raymond E. Feist,0.47487667202949524,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,2,1142991,Knight Templar,Leslie Charteris,0.4560384154319763,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,3,16448980,The King's Buccaneer,Raymond E. Feist,0.454740047454834,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,4,10053519,Requiem for the Conqueror,W. Michael Gear,0.4539634585380554,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,5,1924492,Silverthorn,Raymond E. Feist,0.45206892490386963,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,6,4560846,Winds of Fate,Mercedes Lackey,0.44908255338668823,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,7,20505716,Royal Exile,Fiona McIntosh,0.4478652775287628,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,8,1420750,One for the Morning Glory,John Barnes,0.447682648897171,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,9,22700168,The Bishop,Bruce Marshall,0.44609445333480835,3.9430420147255063
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",vague_plot,217046,,10,28417327,Blood Feud,Rosemary Sutcliff,0.4435979127883911,3.9430420147255063
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,1,8656125,The Nightmare of Black Island,Mike Tucker,0.519538164138794,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,2,4925304,Sheep,Simon Maginn,0.44559627771377563,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,3,9328132,The Fur,,0.4330713450908661,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,4,21795969,The Little Fur Family,Margaret Wise Brown,0.4285174012184143,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,5,21047655,The Krillitane Storm,,0.4161068797111511,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,6,3892164,The Nargun and The Stars,Patricia Wrightson,0.41170912981033325,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,7,2321966,Kangaroo Notebook,Kobo Abe,0.4115484654903412,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,8,5406102,Cat's Cradle: Witchmark,,0.4101085960865021,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,9,1845227,The Story of Doctor Dolittle,Hugh Lofting,0.404177188873291,3.8725840859115124
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,vague_plot,30280,,10,13901327,Danny Dunn and the Swamp Monster,Raymond Abrashkin,0.40410566329956055,3.8725840859115124
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,1,5308109,The Taking of Pelham One Two Three,John Godey,0.478643536567688,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,2,3319237,The Laughing Policeman,Maj Sjöwall,0.4728783071041107,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,3,1395369,Rim of the Pit,,0.45030543208122253,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,4,3149476,Roseanna,Per Wahlöö,0.4473324120044708,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,5,11709313,The Torment of Others,Val McDermid,0.4412081241607666,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,6,2073939,The Secret of Wildcat Swamp,Franklin W. Dixon,0.4387487769126892,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,7,19998458,The Unforgiving Wind,John Harris,0.43588685989379883,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,8,2255151,Murder is Easy,Agatha Christie,0.43300357460975647,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,9,8488932,Frost at Christmas,R. D. Wingfield,0.4327000081539154,3.8688749773427844
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,vague_plot,162770,,10,8457233,A Touch of Frost,R. D. Wingfield,0.43233928084373474,3.8688749773427844
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,1,18949410,And Then There Were None,Agatha Christie,0.54048091173172,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,2,7337505,"Eleven Kids, One Summer",Ann M. Martin,0.5043731927871704,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,3,4320465,The Witch's Daughter,Nina Bawden,0.4821174144744873,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,4,4435553,Two Years' Vacation,Jules Verne,0.4794800877571106,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,5,22510655,The Enemy,Charlie Higson,0.45206189155578613,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,6,15414649,Groosham Grange,Anthony Horowitz,0.4493102431297302,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,7,31584,Lord of the Flies,William Golding,0.4481508135795593,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,8,13074809,The Wreck of the Zanzibar,Michael Morpurgo,0.44749704003334045,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,9,20597324,Have You Been to the Beach Lately?,Ralph Fletcher,0.4427527189254761,3.8170419866219163
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,vague_plot,18949410,1.0,10,31858993,Troll Blood,Katherine Langrish,0.4427081346511841,3.8170419866219163
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,1,2321970,The Face of Another,Kobo Abe,0.5426112413406372,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,2,16900898,Strange Life of Ivan Osokin,P. D. Ouspensky,0.5064507126808167,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,3,24545772,The Boy from the Basement,,0.47957685589790344,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,4,17129362,A Single Man,Christopher Isherwood,0.471278578042984,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,5,5357590,To Live Again,Robert Silverberg,0.4657759666442871,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,6,4910791,Shadow Fires,Dean Koontz,0.461865097284317,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,7,6751104,The Pedestrian,Ray Bradbury,0.46121835708618164,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,8,16208949,The Kin of Ata are Waiting for You,,0.4598543643951416,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,9,4817686,Final Diagnosis,James White,0.45452332496643066,3.6680829944089055
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",vague_plot,37737,,10,25066364,Flight from Rebirth,,0.4513012766838074,3.6680829944089055
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,1,161502,The Old Man and the Sea,Ernest Hemingway,0.5930013656616211,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,2,8608985,The Wreck of the Zephyr,Chris Van Allsburg,0.5756471753120422,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,3,16543334,Apocalypse,Tim Bowler,0.4901365637779236,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,4,23757150,The Knight,Gene Wolfe,0.446056067943573,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,5,21571664,The River Why,David James Duncan,0.43699508905410767,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,6,5500372,Dragon's Claw,Peter O'Donnell,0.436710923910141,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,7,30996091,Dry-Fly Fishing in Theory and Practice,Frederic M. Halford,0.4299089014530182,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,8,454577,The Swiss Family Robinson,Johann David Wyss,0.4267864525318146,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,9,13367116,Old Glory: An American Voyage,Jonathan Raban,0.42512670159339905,3.8774159038439393
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",vague_plot,161502,1.0,10,19959644,A Book on Angling,,0.4219696521759033,3.8774159038439393
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,1,32042913,Rage,Jackie Kessler,0.3958764970302582,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,2,14569180,Klipgooi,,0.3702247738838196,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,3,27134307,Outside Over There,Maurice Sendak,0.3684779703617096,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,4,19611313,Why I Will Never Ever Ever Ever Have Enough Time to Read This Book,,0.3645859360694885,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,5,26160348,The Day of the Troll,,0.36238688230514526,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,6,20632872,The Snow Queen,Mercedes Lackey,0.35795289278030396,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,7,19946027,Storm Catchers,Tim Bowler,0.3468549847602844,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,8,28960717,Crookedstar's Promise,Erin Hunter,0.3441992402076721,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,9,17246888,A.D.: New Orleans After the Deluge,Josh Neufeld,0.3404094874858856,3.9019579999148846
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,vague_plot,54436,,10,18301916,The Other Side,Jacqueline Woodson,0.3398294746875763,3.9019579999148846
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,1,3104028,The Secret Sharer,Robert Silverberg,0.560509443283081,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,2,12692143,An Antarctic Mystery,Jules Verne,0.5375844240188599,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,3,38093,Twenty Thousand Leagues Under the Sea,Emanuel J Mickel,0.5193923115730286,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,4,7400239,The Deadly Isles,Jack Vance,0.5175073146820068,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,5,657134,The Ionian Mission,Patrick O'Brian,0.515601396560669,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,6,92551,Mister Roberts,Thomas Heggen,0.5109668970108032,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,7,2085971,The Birthday Boys,Beryl Bainbridge,0.5082671642303467,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,8,659020,The Hundred Days,Patrick O'Brian,0.5058693885803223,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,9,1117336,The Death Ship,B. Traven,0.5044219493865967,3.7289171013981104
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,vague_plot,38093,3.0,10,16473093,Godfrey Morgan,Jules Verne,0.5020904541015625,3.7289171013981104
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,1,15801208,The Good Dog,Edward Irving Wortis,0.47794193029403687,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,2,11577884,Stone fox,John Reynolds Gardiner,0.4663732349872589,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,3,1143642,The Man Who Planted Trees,Jean Giono,0.4618251621723175,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,4,3395442,Keepers,Gary A. Braunbeck,0.45525023341178894,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,5,358335,The Call of the Wild,Jack London,0.4515126347541809,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,6,9817917,Woodsong,Gary Paulsen,0.4462697207927704,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,7,3415174,Chander Pahar,Bibhutibhushan Bandopadhyay,0.43861329555511475,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,8,11229997,Fools Crow,James Welch,0.42127561569213867,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,9,32817583,The Giant Under The Snow,John Gordon,0.40956321358680725,3.6880839616060257
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,vague_plot,358335,5.0,10,1097220,Castaways of the Flying Dutchman,Brian Jacques,0.40336596965789795,3.6880839616060257
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,1,11929992,A Wrinkle In The Skin,Samuel Youd,0.5286117196083069,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,2,12515352,Island,Richard Laymon,0.48943087458610535,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,3,6637913,Polymath,,0.47986215353012085,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,4,14650207,Theologus Autodidactus,Al-Nafis,0.47803354263305664,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,5,454577,The Swiss Family Robinson,Johann David Wyss,0.47677791118621826,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,6,3380081,Peter and the Starcatchers,Ridley Pearson,0.45557695627212524,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,7,3237972,Call It Courage,Armstrong Sperry,0.455035001039505,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,8,26298783,Danny Dunn on a Desert Island,Raymond Abrashkin,0.446702778339386,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,9,253233,The Scar,China Miéville,0.44405314326286316,3.762208973057568
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,vague_plot,55483,,10,6951095,Dolphin Island,Arthur C. Clarke,0.44237613677978516,3.762208973057568
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,1,21795969,The Little Fur Family,Margaret Wise Brown,0.4977636933326721,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,2,5870892,Rabbit Hill,Robert Lawson,0.47719821333885193,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,3,4925304,Sheep,Simon Maginn,0.47249889373779297,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,4,454577,The Swiss Family Robinson,Johann David Wyss,0.4712483882904053,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,5,5395471,Drift House: The First Voyage,Dale Peck,0.4518476128578186,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,6,3111401,The Nitrogen Fix,Hal Clement,0.4413735568523407,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,7,1404640,Camouflage,Joe Haldeman,0.43958181142807007,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,8,15050098,First Contact,Murray Leinster,0.4383527636528015,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,9,16629981,The Animal Family,Randall Jarrell,0.43536141514778137,3.7874580593779683
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,vague_plot,454577,4.0,10,6877746,A Land Remembered,Patrick D. Smith,0.43227827548980713,3.7874580593779683
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,1,52853,Alice's Adventures in Wonderland,Lewis Carroll,0.4940680265426636,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,2,15038490,Periwinkle at the Full Moon Ball,Geneviève Huriet,0.4409775733947754,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,3,862594,The Tale of Peter Rabbit,Beatrix Potter,0.43670570850372314,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,4,29757446,The Sly Old Cat,Beatrix Potter,0.4101269841194153,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,5,6974428,Bunny Lake Is Missing,Merriam Modell,0.4091832935810089,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,6,78799,Coraline,Neil Gaiman,0.4063720107078552,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,7,11323763,Bad Girls,Jacqueline Wilson,0.40588900446891785,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,8,2008212,Fleabee's Fortune,Robin Jarvis,0.3891122043132782,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,9,10608174,Curious George Flies a Kite,H. A. Rey,0.38621431589126587,3.9195000426843762
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,vague_plot,52853,1.0,10,1895372,Rabbit At Rest,John Updike,0.3839637041091919,3.9195000426843762
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,1,1387687,To Say Nothing of the Dog,Connie Willis,0.46426185965538025,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,2,29834,The Time Machine,H. G. Wells,0.4500945210456848,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,3,42609,Around the World in Eighty Days,Jules Verne,0.4173378348350525,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,4,5976174,The Wheels of Chance,H. G. Wells,0.40752652287483215,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,5,628308,The Anubis Gates,Tim Powers,0.40689870715141296,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,6,538880,The Man Who Folded Himself,David Gerrold,0.4045671820640564,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,7,5360089,The Last Resort,Paul Leonard,0.40173524618148804,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,8,571639,The Science of Discworld II: The Globe,,0.3924018144607544,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,9,7002018,Men Like Gods,H. G. Wells,0.39105841517448425,3.983458038419485
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,vague_plot,42609,3.0,10,178213,The Quiet Earth,Craig Harrison,0.3883782625198364,3.983458038419485
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,1,28841622,The House on Falling Star Hill,,0.4768342077732086,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,2,19267645,Falcons of Narabedla,Marion Zimmer Bradley,0.4681483507156372,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,3,18615381,Journey Through a Small Planet,Emanuel Litvinoff,0.46014824509620667,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,4,10207282,Terrarium,Scott Sanders,0.45922717452049255,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,5,21062451,The Visitors,,0.45902591943740845,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,6,23757150,The Knight,Gene Wolfe,0.4532940983772278,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,7,11108448,The Troika,Stepan Chapman,0.4466346204280853,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,8,29834,The Time Machine,H. G. Wells,0.44291383028030396,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,9,1095679,Earthworks,Brian Aldiss,0.4361914396286011,3.843124955892563
+A traveler is swept into a country of miniature people and later visits lands with strange societies,vague_plot,43023,,10,14423375,Saving Fish from Drowning,Amy Tan,0.43276774883270264,3.843124955892563
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,1,11914042,Travels in the Scriptorium,Paul Auster,0.45724278688430786,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,2,4058574,The Haunted Bookshop,Christopher Morley,0.4390743374824524,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,3,28813637,Hygiene and the Assassin,Amélie Nothomb,0.43582072854042053,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,4,24366687,The Incendiary's Trail,James McCreet,0.43186289072036743,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,5,11350877,The Greek Coffin Mystery,Frederic Dannay,0.43012696504592896,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,6,10127495,Room One,Andrew Clements,0.42320558428764343,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,7,2545908,Time's Arrow,Martin Amis,0.4160686135292053,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,8,9907305,Talkative Man,R. K. Narayan,0.4071798324584961,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,9,3286919,The Hollow Man,John Dickson Carr,0.40517014265060425,4.038000013679266
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,near_duplicates,9122335,,10,4506275,The Glass Cafe,Gary Paulsen,0.40054386854171753,4.038000013679266
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,1,7872335,Dead Famous,Ben Elton,0.48223429918289185,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,2,12910620,The Wedding Day Mystery,,0.4803770184516907,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,3,7489838,All That Remains,Patricia Cornwell,0.44815129041671753,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,4,33879257,The Hidden Child,Camilla Läckberg,0.44546765089035034,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,5,23970344,The House,Danielle Steel,0.4438306987285614,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,6,5998983,Die Dame im Chinchilla,,0.4427257180213928,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,7,1490808,The Amber Room,Steve Berry,0.43994981050491333,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,8,11999513,The Plague Court Murders,John Dickson Carr,0.43827980756759644,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,9,6900216,The Crooked Banister,Carolyn Keene,0.4374816417694092,3.8767079822719097
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",near_duplicates,9122401,,10,518302,In the Country of Last Things,Paul Auster,0.4355163872241974,3.8767079822719097
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,1,11590225,Aftermath,Peter Robinson,0.5023767352104187,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,2,23425631,The Mystery of the Pantomime Cat,,0.491680383682251,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,3,31377471,Cat O'Nine Tails,,0.4897657632827759,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,4,1303647,Celebrated Cases of Judge Dee,,0.48510849475860596,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,5,2169544,Equal Danger,Leonardo Sciascia,0.4844912886619568,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,6,31376710,Den of Thieves,Julia Golding,0.471112996339798,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,7,5523451,Borkmann's Point,Håkan Nesser,0.46978306770324707,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,8,27022415,February Shadows,Elisabeth Reichart,0.46611344814300537,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,9,2730451,The Coffin Dancer,Jeffery Deaver,0.4588587284088135,3.7588750710710883
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",near_duplicates,4335731,,10,23875083,The Cater Street Hangman,Anne Perry,0.45810818672180176,3.7588750710710883
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,1,5140895,"It's Like This, Cat",Emily Neville,0.48598164319992065,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,2,5636107,Carbonel: the King of the Cats,Barbara Sleigh,0.47234660387039185,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,3,10829132,The IHOP Papers,Ali Liebegott,0.4638046324253082,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,4,14719038,Millions of Cats,Wanda Gág,0.4564303159713745,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,5,15054346,Born of Man and Woman,Richard Matheson,0.45513659715652466,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,6,31376710,Den of Thieves,Julia Golding,0.45492976903915405,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,7,27022415,February Shadows,Elisabeth Reichart,0.44579678773880005,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,8,7169623,Whittington,,0.4366530478000641,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,9,17504105,That Pesky Rat,Lauren Child,0.43606340885162354,3.949458012357354
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",near_duplicates,10306456,,10,254498,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,0.4256572127342224,3.949458012357354
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,1,8179637,Jaws,Peter Benchley,0.44213438034057617,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,2,8608985,The Wreck of the Zephyr,Chris Van Allsburg,0.43584704399108887,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,3,10619242,The Cat Who Played Brahms,Lilian Jackson Braun,0.4356832504272461,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,4,5569380,Big Two-Hearted River,Ernest Hemingway,0.42454418540000916,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,5,3470731,The Tent Dwellers,Albert Bigelow Paine,0.42032065987586975,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,6,26777529,The Cruise of the Breadwinner,H. E. Bates,0.409972220659256,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,7,5133421,The Country of the Pointed Firs,Sarah Orne Jewett,0.4069365859031677,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,8,5519382,Mosquitoes,William Faulkner,0.40532222390174866,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,9,3476270,Dance Dance Dance,Haruki Murakami,0.40154963731765747,3.9422910194844007
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",near_duplicates,10619242,3.0,10,2538126,Paddle-to-the-Sea,Holling C. Holling,0.4005718529224396,3.9422910194844007
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,1,1898161,The Colorado Kid,Stephen King,0.5135945677757263,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,2,8179637,Jaws,Peter Benchley,0.4975617229938507,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,3,3476270,Dance Dance Dance,Haruki Murakami,0.49321413040161133,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,4,13856799,Deep Storm,Lincoln Child,0.4815569519996643,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,5,19188776,Wycliffe and How to Kill a Cat,,0.46286362409591675,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,6,13471090,Sail,Howard Roughan,0.4613102078437805,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,7,8064760,The Man on the Moor,,0.4563204050064087,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,8,23417738,On the Water,,0.4562014639377594,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,9,1814064,The Drowned World,J. G. Ballard,0.4541832506656647,4.575125058181584
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",near_duplicates,10290289,,10,3149476,Roseanna,Per Wahlöö,0.45272836089134216,4.575125058181584
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,1,45084,Henry V,William Shakespeare,0.4724544286727905,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,2,15454256,The Cat Who Knew a Cardinal,Lilian Jackson Braun,0.43695366382598877,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,3,84104,Becket,Jean Anouilh,0.399528443813324,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,4,9333321,Surviving the Applewhites,Stephanie S. Tolan,0.3988323509693146,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,5,3286926,Gaston de Blondeville,Ann Radcliffe,0.3851168155670166,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,6,22326480,The Productions of Time,John Brunner,0.38365036249160767,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,7,184847,"Henry VI, part 3",William Shakespeare,0.38286665081977844,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,8,23875083,The Cater Street Hangman,Anne Perry,0.3817177712917328,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,9,21413588,Best Foot Forward,John Cecil Holm,0.36962777376174927,6.059124949388206
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",near_duplicates,15454256,2.0,10,5080326,Original Sin,P. D. James,0.366325706243515,6.059124949388206
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,1,19638358,The Cat Who Brought Down the House,Lilian Jackson Braun,0.4664043188095093,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,2,31376710,Den of Thieves,Julia Golding,0.4604300856590271,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,3,497634,Maskerade,Terry Pratchett,0.4449271559715271,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,4,5140895,"It's Like This, Cat",Emily Neville,0.4240284562110901,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,5,27022415,February Shadows,Elisabeth Reichart,0.41857460141181946,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,6,3958053,House Mother Normal,B.S. Johnson,0.41703468561172485,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,7,77748,What Ever Happened to Baby Jane?,,0.4154673218727112,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,8,5232804,Bruges-la-Morte,,0.41133540868759155,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,9,5636107,Carbonel: the King of the Cats,Barbara Sleigh,0.40963080525398254,4.717917065136135
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",near_duplicates,19638358,1.0,10,28624193,Wings of the Falcon,Barbara Mertz,0.40506812930107117,4.717917065136135
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,1,4779699,44 Scotland Street,Alexander McCall Smith,0.48105499148368835,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,2,8034765,A Pattern of Roses,K. M. Peyton,0.42719388008117676,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,3,6903679,"Strange People, Queer Notions",Jack Vance,0.42617788910865784,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,4,2249628,Self,Yann Martel,0.4220365583896637,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,5,18451040,Paper Towns,John Green,0.42098569869995117,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,6,2524345,The Gift of Stones,Jim Crace,0.4194856882095337,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,7,3476270,Dance Dance Dance,Haruki Murakami,0.4084141254425049,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,8,7960436,Drawing a Blank,,0.4080269932746887,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,9,8431888,The Second Invasion from Mars,Boris Strugatsky,0.40727055072784424,4.414333030581474
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",near_duplicates,10688668,,10,3137061,Waterland,Graham Swift,0.406982421875,4.414333030581474
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,1,4722747,The Fire Engine That Disappeared,Per Wahlöö,0.5282943248748779,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,2,19458146,The Cat Who Had 60 Whiskers,Lilian Jackson Braun,0.4268170893192291,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,3,9196305,The Devil's Feather,Minette Walters,0.4134443700313568,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,4,376954,The Campus Murders,Gil Brewer,0.4062268137931824,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,5,11278597,The Last Summer,Ann Brashares,0.4028157889842987,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,6,19782454,Point of Origin,Patricia Cornwell,0.39494478702545166,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,7,5875760,Whale Song,Cheryl Kaye Tardif,0.3901975452899933,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,8,21624439,Mr. Monk Goes to the Firehouse,Lee Goldberg,0.38892000913619995,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,9,15629907,Ashes to Ashes,Tami Hoag,0.3886162042617798,6.216333014890552
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",near_duplicates,19458146,2.0,10,11693761,Escape from Fire Mountain,Gary Paulsen,0.3878553807735443,6.216333014890552
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,1,16458859,Zombie Broadway,,0.446933388710022,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,2,25237159,The Secret Lovers,Charles McCarry,0.444827675819397,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,3,12215084,Before I Wake,Robert Wiersema,0.4386402368545532,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,4,23898865,The Business of Dying,Simon Kernick,0.4288330376148224,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,5,9118313,Rewind,William Sleator,0.42353254556655884,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,6,33868418,The Gallows Bird,Camilla Läckberg,0.4162023067474365,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,7,22326480,The Productions of Time,John Brunner,0.4132609963417053,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,8,3762499,End in Tears,Ruth Rendell,0.4100499749183655,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,9,13284648,Drop to His Death,John Dickson Carr,0.406558096408844,5.898374947719276
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",near_duplicates,24919033,,10,596210,The Mousetrap,Agatha Christie,0.4041522443294525,5.898374947719276
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,1,4050227,The Ice Harvest,Scott Phillips,0.46896055340766907,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,2,14710449,The Twilight Streets,,0.4204958379268646,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,3,5265300,The Speaker of Mandarin,Ruth Rendell,0.4070015549659729,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,4,9958705,Saturnalia,Joel Spector,0.3999361991882324,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,5,19774558,Bay of the Dead,,0.3853384852409363,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,6,728793,The Girl Who Owned a City,O. T Nelson,0.3806793689727783,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,7,33280874,A Casa,Andre Vianco,0.37885695695877075,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,8,2708729,Harvest Home,Tom Tryon,0.3729180693626404,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,9,23971233,Miracle,Danielle Steel,0.3725142776966095,4.9772909842431545
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",near_duplicates,15454458,10.0,10,15454458,The Cat Who Tailed a Thief,Lilian Jackson Braun,0.3724249303340912,4.9772909842431545
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,1,23247641,Landslide,Desmond Bagley,0.4333042502403259,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,2,11131253,The Bookshop,Penelope Fitzgerald,0.40440019965171814,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,3,868002,The Summons,John Grisham,0.40438753366470337,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,4,9008683,Necropolis,Basil Copper,0.39766252040863037,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,5,28351130,Eternity Road,Jack McDevitt,0.39541661739349365,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,6,6899782,The Clue in the Crumbling Wall,Carolyn Keene,0.39169132709503174,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,7,10313824,The Treasure in the Royal Tower,Carolyn Keene,0.3879985809326172,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,8,28210983,No Strings Attached,,0.38749590516090393,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,9,29610017,Hide My Eyes,Margery Allingham,0.3861537575721741,4.231708007864654
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",near_duplicates,19622378,,10,8034765,A Pattern of Roses,K. M. Peyton,0.38217201828956604,4.231708007864654
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,1,15054346,Born of Man and Woman,Richard Matheson,0.49213874340057373,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,2,73517,The Go-Between,L. P. Hartley,0.46914127469062805,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,3,1265587,Idlewild,Nick Sagan,0.4540742039680481,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,4,9680394,The Village Schoolmaster,Franz Kafka,0.4480389356613159,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,5,4532026,Morning Star,H. Rider Haggard,0.4454479515552521,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,6,19002829,Michael,Joseph Goebbels,0.4392555058002472,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,7,19781082,Diary of a Spider,,0.42568111419677734,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,8,15572315,The Saint of Dragons,,0.42398202419281006,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,9,25106812,Milrose Munce and the Den of Professional Help,Douglas Anthony Cooper,0.41630008816719055,4.004499991424382
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,near_duplicates,163234,,10,27282556,The Creature in the Teacher,Christopher Pike,0.4118885099887848,4.004499991424382
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,1,4910784,Watchers,Dean Koontz,0.5053625106811523,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,2,15897785,City of the Sun,David Levien,0.5048433542251587,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,3,1097220,Castaways of the Flying Dutchman,Brian Jacques,0.45567986369132996,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,4,24545772,The Boy from the Basement,,0.4554063379764557,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,5,26709981,Toby Alone,Timothée de Fombelle,0.4545702338218689,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,6,11280016,Buddy,Nigel Hinton,0.4504704177379608,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,7,21035059,Frozen Fire,Tim Bowler,0.43956679105758667,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,8,2074075,The Clue of the Screeching Owl,Franklin W. Dixon,0.43722471594810486,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,9,24415047,The Stray Dog,,0.4353991746902466,3.9865419967100024
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",near_duplicates,254498,,10,15054346,Born of Man and Woman,Richard Matheson,0.4342944025993347,3.9865419967100024
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,1,5663858,The Flying Classroom,Erich Kästner,0.49252158403396606,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,2,12076423,Arthur's Teacher Trouble,Marc Brown,0.42369815707206726,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,3,201129,Sourcery,Terry Pratchett,0.41911834478378296,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,4,11857241,Fablehaven: Rise of the Evening Star,Brandon Mull,0.41645461320877075,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,5,6557540,Witch Week,Diana Wynne Jones,0.4136148691177368,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,6,13906276,Our Twisted Hero,Yi Munyol,0.39215245842933655,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,7,3791547,The View from Saturday,E. L. Konigsburg,0.3902241289615631,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,8,34487989,Dead End in Norvelt,Jack Gantos,0.3900671601295471,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,9,30892578,Another,,0.38669800758361816,4.027458024211228
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",near_duplicates,259128,,10,10483306,"Niagara Falls, or Does it?",Henry Winkler,0.38230830430984497,4.027458024211228
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,1,535765,Rage,Stephen King,0.48991549015045166,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,2,2392577,The Wave,Todd Strasser,0.4695523679256439,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,3,6557540,Witch Week,Diana Wynne Jones,0.45872074365615845,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,4,2315955,The History Boys,Alan Bennett,0.4413034915924072,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,5,20390266,Flying Solo,Ralph Fletcher,0.4404526352882385,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,6,20636889,Walking Trees,Ralph Fletcher,0.4361937642097473,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,7,13635414,The Revealers,,0.4289306700229645,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,8,5663858,The Flying Classroom,Erich Kästner,0.4280729293823242,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,9,1595100,The Children's Story,James Clavell,0.42071211338043213,4.154832917265594
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,near_duplicates,156489,,10,13906276,Our Twisted Hero,Yi Munyol,0.41818907856941223,4.154832917265594
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,1,6557540,Witch Week,Diana Wynne Jones,0.4999452233314514,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,2,18638433,The Wizard in the Woods,Jean Ure,0.49218350648880005,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,3,22667032,Eighth Grade Bites,Heather Brewer,0.48426491022109985,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,4,1191780,The Hidden Curriculum,,0.47714126110076904,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,5,5663858,The Flying Classroom,Erich Kästner,0.4631643295288086,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,6,23228408,Elsie Venner,"Oliver Wendell Holmes, Sr.",0.46299004554748535,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,7,3989798,Nemesis,Scott Ciencin,0.45697683095932007,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,8,2392577,The Wave,Todd Strasser,0.450977623462677,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,9,5061559,The Coming Storm,Paul Russell,0.44854503870010376,4.295584047213197
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,near_duplicates,2270723,,10,17927963,Shadowland,Peter Straub,0.4482465386390686,4.295584047213197
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,1,27282556,The Creature in the Teacher,Christopher Pike,0.4715326428413391,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,2,17413325,School Days,Robert B. Parker,0.4475594162940979,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,3,7477469,Gila Monsters Meet you at the Airport,,0.4303188621997833,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,4,12391692,The Rock Jockeys,Gary Paulsen,0.42411619424819946,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,5,5044608,The Rotters' Club,Jonathan Coe,0.42364782094955444,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,6,19866247,Cockroach Cooties,Laurence Yep,0.42092329263687134,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,7,10035958,Needle,Hal Clement,0.40905898809432983,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,8,60171,The Treasure of the Sierra Madre,B. Traven,0.4062002897262573,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,9,15897785,City of the Sun,David Levien,0.40147167444229126,3.755832905881107
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",near_duplicates,776049,,10,5250268,Talking to Strange Men,Ruth Rendell,0.3982454538345337,3.755832905881107
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,1,3618655,So You Want to Be a Wizard,Diane Duane,0.4963289499282837,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,2,18638433,The Wizard in the Woods,Jean Ure,0.4916393756866455,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,3,6557540,Witch Week,Diana Wynne Jones,0.4855218529701233,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,4,11017293,A Bad Spell in Yurt,C. Dale Brittain,0.4816068112850189,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,5,5920663,Wizard of the Pigeons,Robin Hobb,0.47926226258277893,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,6,34971264,Kaytek the Wizard,Janusz Korczak,0.46956929564476013,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,7,5641294,The Magician,Sol Stein,0.4660096764564514,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,8,2734797,The Gem and the Staff,John Van De Graaf,0.4617151916027069,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,9,3989798,Nemesis,Scott Ciencin,0.4572587013244629,3.7001249147579074
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,near_duplicates,48648,,10,23986473,The Magicians,Lev Grossman,0.4535846412181854,3.7001249147579074

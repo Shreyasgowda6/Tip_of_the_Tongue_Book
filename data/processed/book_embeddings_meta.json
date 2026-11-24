@@ -1,0 +1,6 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "corpus_fingerprint": "6dd2a24f059d49b604a0c3760268f5c49b098c46656e6626d96b0c6027c3ccb9",
+  "number_of_books": 16356,
+  "embedding_dimension": 384
+}

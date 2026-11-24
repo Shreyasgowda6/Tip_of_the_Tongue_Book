@@ -1,0 +1,61 @@
+query,gold_wiki_id,group
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",30292,exact_words
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",24162,exact_words
+Victor Frankenstein creates a living being from body parts,18580673,exact_words
+"Count Dracula, Mina Harker, and Jonathan Harker",7923,exact_words
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",76033,exact_words
+Atticus Finch defends Tom Robinson in Maycomb,73408,exact_words
+Winston Smith works at the Ministry of Truth in Oceania,23454753,exact_words
+Holden Caulfield leaves Pencey Prep and wanders New York,186258,exact_words
+Gregor Samsa wakes up transformed into a giant insect,10862,exact_words
+Josef K is arrested without being told his crime,10861,exact_words
+"Jane Eyre, Mr Rochester, and Thornfield Hall",55438,exact_words
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,55435,exact_words
+Basil Hallward paints Dorian Gray’s portrait,31342,exact_words
+Martians land near Woking and attack with heat-rays,32688947,exact_words
+Eloi and Morlocks encountered by a time traveller,29834,exact_words
+Offred lives under the rule of the Commanders in Gilead,165026,exact_words
+"Paul Atreides, Arrakis, spice, and the Fremen",71416,exact_words
+Jack Torrance takes a job at the Overlook Hotel,29999,exact_words
+Robert Langdon investigates a murder at the Louvre,5043452,exact_words
+Katniss Everdeen volunteers in place of Prim in District 12,20128213,exact_words
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",620,vague_plot
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,242130,vague_plot
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,410873,vague_plot
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,63425,vague_plot
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,73670,vague_plot
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",82163,vague_plot
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",217046,vague_plot
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,30280,vague_plot
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,162770,vague_plot
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,18949410,vague_plot
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",37737,vague_plot
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",161502,vague_plot
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,54436,vague_plot
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,38093,vague_plot
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,358335,vague_plot
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,55483,vague_plot
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,454577,vague_plot
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,52853,vague_plot
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,42609,vague_plot
+A traveler is swept into a country of miniature people and later visits lands with strange societies,43023,vague_plot
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,9122335,near_duplicates
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",9122401,near_duplicates
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",4335731,near_duplicates
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",10306456,near_duplicates
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",10619242,near_duplicates
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",10290289,near_duplicates
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",15454256,near_duplicates
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",19638358,near_duplicates
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",10688668,near_duplicates
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",19458146,near_duplicates
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",24919033,near_duplicates
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",15454458,near_duplicates
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",19622378,near_duplicates
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,163234,near_duplicates
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",254498,near_duplicates
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",259128,near_duplicates
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,156489,near_duplicates
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,2270723,near_duplicates
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",776049,near_duplicates
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,48648,near_duplicates

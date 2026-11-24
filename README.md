@@ -1,0 +1,26 @@
+# Tip-of-the-Tongue Book Finder
+
+Sometimes we remember a story but forget its title. This project lets us describe the story and suggests books that may match.
+
+## How it works
+
+The search looks for matching words and similar story meanings. It combines both approaches, then reorders the results. The page shows the results from each approach so they can be compared.
+
+## Try it on your computer
+
+From the project folder, install the needed packages and start the app:
+
+```bash
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
+
+The search page opens in your browser. Type a story clue, or choose one of the examples on the page.
+
+## The book data
+
+The project uses the [CMU Book Summary Dataset](https://www.cs.cmu.edu/~dbamman/booksummaries.html), which contains book details and plot summaries. A cleaned copy of 16,356 books is included in this repository.
+
+## The notebook
+
+The notebook shows how the search methods compare on sample questions and how long they take. The current questions were drafted with AI, so they need human review before being used as final assignment results.
