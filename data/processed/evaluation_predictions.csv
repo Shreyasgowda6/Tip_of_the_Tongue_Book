@@ -1,0 +1,61 @@
+query,correct_book_name,BM25_prediction,Dense_prediction,Fused_prediction,Reranked_prediction
+"Bilbo Baggins, the One Ring, and Smaug at the Lonely Mountain",The Hobbit,The Hobbit,The Lord of the Rings,The Hobbit,The Hobbit
+"Elizabeth Bennet, Mr Darcy, and the five Bennet sisters",Pride and Prejudice,Pride and Prejudice and Zombies,Pride and Prejudice and Zombies,Pride and Prejudice and Zombies,Pride and Prejudice
+Victor Frankenstein creates a living being from body parts,Frankenstein,Frankenstein,Frankenstein,Frankenstein,Frankenstein
+"Count Dracula, Mina Harker, and Jonathan Harker",Dracula,Dracula,Dracula,Dracula,Dracula
+"Jay Gatsby, Daisy Buchanan, and Nick Carraway",The Great Gatsby,The Great Gatsby,The Great Gatsby,The Great Gatsby,The Great Gatsby
+Atticus Finch defends Tom Robinson in Maycomb,To Kill a Mockingbird,To Kill a Mockingbird,To Kill a Mockingbird,To Kill a Mockingbird,To Kill a Mockingbird
+Winston Smith works at the Ministry of Truth in Oceania,Nineteen Eighty-Four,Nineteen Eighty-Four,Nineteen Eighty-Four,Nineteen Eighty-Four,Nineteen Eighty-Four
+Holden Caulfield leaves Pencey Prep and wanders New York,The Catcher in the Rye,The Catcher in the Rye,The Catcher in the Rye,The Catcher in the Rye,The Catcher in the Rye
+Gregor Samsa wakes up transformed into a giant insect,The Metamorphosis,Insect Dreams: The Half Life of Gregor Samsa,The Metamorphosis,The Metamorphosis,The Metamorphosis
+Josef K is arrested without being told his crime,The Trial,Heimweg,The Good Soldier Švejk,Rondo,The Trial
+"Jane Eyre, Mr Rochester, and Thornfield Hall",Jane Eyre,Jane Eyre,Jane Eyre,Jane Eyre,The Eyre Affair
+Heathcliff and Catherine Earnshaw on the Yorkshire moors,Wuthering Heights,Wuthering Heights,Wuthering Heights,Wuthering Heights,Wuthering Heights
+Basil Hallward paints Dorian Gray’s portrait,The Picture of Dorian Gray,The Picture of Dorian Gray,The Picture of Dorian Gray,The Picture of Dorian Gray,The Picture of Dorian Gray
+Martians land near Woking and attack with heat-rays,The War of the Worlds,The War of the Worlds,The War of the Worlds,The War of the Worlds,The War of the Worlds
+Eloi and Morlocks encountered by a time traveller,The Time Machine,The Time Machine,The Time Ships,The Time Machine,The Time Machine
+Offred lives under the rule of the Commanders in Gilead,The Handmaid's Tale,The Handmaid's Tale,The Handmaid's Tale,The Handmaid's Tale,The Handmaid's Tale
+"Paul Atreides, Arrakis, spice, and the Fremen",Dune,Dune,Dune,Dune,The Winds of Dune
+Jack Torrance takes a job at the Overlook Hotel,The Shining,The Shining,The Shining,The Shining,The Shining
+Robert Langdon investigates a murder at the Louvre,The Da Vinci Code,The Da Vinci Code,The Da Vinci Code,The Da Vinci Code,The Da Vinci Code
+Katniss Everdeen volunteers in place of Prim in District 12,The Hunger Games,The Hunger Games,Catching Fire,The Hunger Games,The Hunger Games
+"Farmyard creatures overthrow their human owner, then a ruling clique becomes just as oppressive",Animal Farm,The Ruling Class,Gulliver's Travels,Berge Meere und Giganten,Snowball's Chance
+Four children pass through an old piece of furniture into a land trapped in winter by a cruel ruler,"The Lion, the Witch and the Wardrobe",Rowan of the Bukshah,The Boy in the Oak,The Child Thief,Hercule Poirot's Christmas
+A lonely orphan discovers a walled garden that has been shut for years and helps it bloom again,The Secret Garden,The Secret Garden,The Greenhouse,The Secret Garden,The Secret Garden
+A tiny visitor from another world tells a stranded pilot about the people he met on distant planets,The Little Prince,Phoenix And Ashes,The Man with a Thousand Names,Out of This World Watt-Evans,The Sparrow
+A bitter old miser is visited overnight by spirits who force him to reconsider how he treats people,A Christmas Carol,A Christmas Carol,The Lime Works,A Christmas Carol,A Christmas Carol
+"An innocent sailor escapes a prison island, gains a fortune, and carefully settles old scores",The Count of Monte Cristo,Portrait of Lozana: The Lusty Andalusian Woman,Seekers of the Sky,The Wreck of the Zephyr,Traveling Scholarships
+"A young man joins three companions sworn to protect their king, facing a scheming cardinal and a dangerous spy",The Three Musketeers,The Three Musketeers,Foundation,The Three Musketeers,The Three Musketeers
+A country doctor and his friend investigate a family curse tied to a terrifying animal on a foggy moor,The Hound of the Baskervilles,The Surgeon,The Nightmare of Black Island,Sting of the Zygons,Spindle's End
+A detective questions everyone aboard a snowbound luxury train after one passenger is found dead,Murder on the Orient Express,Roseanna,Who Killed Zebedee?,The Taking of Pelham One Two Three,Death in the Clouds
+A group of strangers on a remote island are killed one by one according to a children’s rhyme,And Then There Were None,A Pocket Full of Rye,And Then There Were None,And Then There Were None,Rushing to Paradise
+"A scientist discovers how to become unseen, then finds himself unable to live safely among ordinary people",The Invisible Man,The Integral Trees,The Face of Another,Pebble in the Sky,How to Live Safely in a Science Fictional Universe
+"An aging fisherman sails far offshore, hooks an enormous catch, and struggles to bring it home",The Old Man and the Sea,The Wreck of the Zephyr,The Wreck of the Zephyr,The Wreck of the Zephyr,The Wreck of the Zephyr
+A Kansas girl is swept away by a storm and follows a bright road to ask a powerful ruler for help,The Wonderful Wizard of Oz,The Wonderful Wizard of Oz,Rage,The Wonderful Wizard of Oz,The Road to Oz
+A French professor joins an enigmatic captain beneath the sea aboard a remarkable metal vessel,Twenty Thousand Leagues Under the Sea,Twenty Thousand Leagues Under the Sea,The Master of Ballantrae,Twenty Thousand Leagues Under the Sea,Twenty Thousand Leagues Under the Sea
+A young man heads north during a gold rush and learns to survive in the wilderness with a sled dog,The Call of the Wild,The Call of the Wild,The Fox and the Hound,The Call of the Wild,The Call of the Wild
+A castaway builds shelter from wreckage and tries to survive alone on a tropical shore,Robinson Crusoe,Baby Island,A Wrinkle In The Skin,Hatchet,The Land That Time Forgot
+A family shipwrecked far from home makes a new life among unfamiliar animals and plants,The Swiss Family Robinson,A Strange Manuscript Found in a Copper Cylinder,The Little Fur Family,The Little Fur Family,The Swiss Family Robinson
+A curious girl follows a hurried white rabbit underground and encounters a tea party that never ends,Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,Alice's Adventures in Wonderland
+A wealthy Englishman wagers he can circle the globe in eighty days and races against the clock,Around the World in Eighty Days,Midnight Plus One,To Say Nothing of the Dog,Around the World in Eighty Days,The Other Log of Phileas Fogg
+A traveler is swept into a country of miniature people and later visits lands with strange societies,Gulliver's Travels,Unveiling a Parallel,The House on Falling Star Hill,Die Stadt hinter dem Strom,The Enchanted Wood
+A newspaper art reporter rents a room from a one-handed critic and investigates the death of an artist; his backward-reading Siamese is involved,The Cat Who Could Read Backwards,The Cat Who Could Read Backwards,The Landry News,The Incendiary's Trail,The Cat Who Could Read Backwards
+"An interior-design assignment leads a reporter to a jade-collecting couple, a robbed mansion, and a death",The Cat Who Ate Danish Modern,The Cat Who Ate Danish Modern,Dead Famous,The Cat Who Ate Danish Modern,The Cat Who Ate Danish Modern
+"In a district of antique shops, a suspicious fatal fall draws a journalist and his two Siamese cats into a murder case",The Cat Who Turned On and Off,The Cat Who Turned On and Off,Aftermath,Celebrated Cases of Judge Dee,The Cat Who Turned On and Off
+"While reviewing restaurants, a reporter moves into a boarding house where a potter’s troubled marriage and a missing cat raise questions",The Cat Who Saw Red,The Cat Who Saw Red,Millions of Cats,"Gobbolino, the Witch's Cat",The Cat Who Saw Red
+"A city reporter takes a quiet lakeside holiday to write, but a fishing trip turns up what may be a body",The Cat Who Played Brahms,The Cat Who Played Brahms,Big Two-Hearted River,The Cat Who Played Brahms,The Cat Who Played Brahms
+"At a summer cabin, a carpenter’s supposed accidental drowning and a strange emergency-plumbing service trouble a visiting journalist",The Cat Who Went Underground,The Cat Who Went Underground,The Colorado Kid,Ice Station Zebra,The Cat Who Went Underground
+"After a performance of Henry VIII, a disliked director and school principal is found shot at a cast party",The Cat Who Knew a Cardinal,The Cat Who Knew a Cardinal,Henry V,The Cat Who Knew a Cardinal,The Cat Who Knew a Cardinal
+"An elderly celebrity returns to her hometown, opens an old opera house as a film club, and a cat causes chaos",The Cat Who Brought Down the House,The Cat Who Brought Down the House,Freddy the Pied Piper,The Cat Who Brought Down the House,The Cat Who Brought Down the House
+"During a town anniversary, a young architecture student sketches a journalist’s barn while his fiancée becomes involved in a local mystery",The Cat Who Dropped a Bombshell,The Cat Who Dropped a Bombshell,Self,The Cat Who Dropped a Bombshell,The Cat Who Dropped a Bombshell
+"A senior-center project ends in a fire, a young woman dies from a bee sting, and a journalist’s home is later burned",The Cat Who Had 60 Whiskers,The Cat Who Had 60 Whiskers,The Fire Engine That Disappeared,The Cat Who Had 60 Whiskers,The Cat Who Had 60 Whiskers
+"A local theater actor dies in a car crash, and a small-town columnist suspects the charming new arrival",The Cat Who Went Bananas,The Pitcher Shower,Dance Dance Dance,Rant: The Oral Biography of Buster Casey,Family Values
+"A holiday season brings petty thefts, a restoration scheme, and two deaths to a normally quiet northern town",The Cat Who Tailed a Thief,The Cat Who Tailed a Thief,The Ice Harvest,The Cat Who Tailed a Thief,The Cat Who Tailed a Thief
+"A woodsman is shot on a reporter’s property during a neighboring town’s bicentennial, while a wealthy widow’s mansion becomes a museum",The Cat Who Talked Turkey,The Cat Who Talked Turkey,Mr. Monk in Trouble,Mr. Monk in Trouble,The Cat Who Talked Turkey
+A schoolboy finds a diary that leads him toward a hidden chamber and a creature attacking students inside his school,Harry Potter and the Chamber of Secrets,Harry Potter and the Chamber of Secrets,Born of Man and Woman,Harry Potter and the Chamber of Secrets,Harry Potter and the Chamber of Secrets
+"A boy learns that a notorious escaped prisoner is connected to his parents, while a large black dog appears nearby",Harry Potter and the Prisoner of Azkaban,Harry Potter and the Prisoner of Azkaban,Sounder,The Stray Dog,Dirty White Boys
+"A magical school tournament brings three other schools together, and its final challenge ends with a fatal return to a graveyard",Harry Potter and the Goblet of Fire,Harry Potter and the Goblet of Fire,The Flying Classroom,Harry Potter and the Goblet of Fire,Harry Potter and the Goblet of Fire
+A new teacher imposes harsh rules at school as a group of students secretly trains to defend themselves,Harry Potter and the Order of the Phoenix,Rage,The Ruling Class,How Children Fail,The War With Mr. Wizzle
+A headmaster gives a student private lessons about a dark wizard’s past while a classmate undertakes a dangerous secret task,Harry Potter and the Half-Blood Prince,Harry Potter and the Goblet of Fire,Groosham Grange,Harry Potter and the Goblet of Fire,Groosham Grange
+"Three young friends leave school to hunt for objects that can defeat a rising tyrant, pursued across the country",Harry Potter and the Deathly Hallows,The Long Loud Silence,The Creature in the Teacher,The Long Loud Silence,The Grounding of Group 6
+An aspiring wizard receives an invitation to an unusual school and discovers that a magical stone is being targeted,Harry Potter and the Philosopher's Stone,The Face in the Frost,Harry Potter and the Philosopher's Stone,Harry Potter and the Philosopher's Stone,Od Magic

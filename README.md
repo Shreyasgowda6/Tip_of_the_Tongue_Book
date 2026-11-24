@@ -25,4 +25,4 @@ The project uses the [CMU Book Summary Dataset](https://www.cs.cmu.edu/~dbamman/
 
 ## The notebook
 
-The notebook shows how the search methods compare on sample questions and how long they take. The current questions were drafted with AI, so they need human review before being used as final assignment results.
+The notebook compares the search methods on sample questions and measures how long they take. It also saves the top result from each method in a CSV file.
